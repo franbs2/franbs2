@@ -16,20 +16,18 @@ Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. 
 
 ## Contatos:
 
-<div>
+
 <a href="https://instagram.com/franbs.apk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@franciellensousaaraujo"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciellensaraujo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 #
 
-<div>
+<p>
 <a href="https://github.com/franbs2">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franbs2&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franbs2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</p>
 
-![Snake animation](https://github.com/franbs2/franbs2/blob/output/github-contribution-grid-snake.svg)
-</div>
           
   
