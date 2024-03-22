@@ -12,7 +12,6 @@ Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. 
 - ❔ Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você!
 
 ![prifle-3d-contrib](https://github.com/franbs2/franbs2/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
 ## Tecnologias e Ferramentas
 
 <div align="center" >
