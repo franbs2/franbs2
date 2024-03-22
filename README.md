@@ -11,8 +11,17 @@ Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. 
 - 🐾 Tenho pets e adoro animais e plantinhas.
 - ❔ Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você!
 
+![prifle-3d-contrib](https://github.com/franbs2/franbs2/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ## Tecnologias e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style='width: 5%; height:5%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style='width: 5%; height:5%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style='width: 5%; height:5%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style='width: 5%; height:5%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style='width: 5%; height:5%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" style='width: 5%; height:5%'/> 
+
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,css,html,react,next,tailwind,sass,figma,github,vite,bootstrap" />
+</a>
+  <br />
+
+  </div> 
 
 ## Contatos:
 
