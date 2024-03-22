@@ -11,31 +11,36 @@ Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. 
 - 🐾 Tenho pets e adoro animais e plantinhas.
 - ❔ Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você!
 
-![prifle-3d-contrib](https://github.com/franbs2/franbs2/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 ## Tecnologias e Ferramentas
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,css,html,react,next,tailwind,sass,figma,github,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,java,flutter,spring" />
 </a>
   <br />
+</div> 
 
-  </div> 
+
+![prifle-3d-contrib](https://github.com/franbs2/franbs2/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+
+![Snake animation](https://github.com/franbs2/franbs2/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
-
 
 <a href="https://instagram.com/franbs.apk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@franciellensousaaraujo"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciellensaraujo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 #
-
+<center>
 <p>
-<a href="https://github.com/franbs2">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franbs2&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franbs2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/franbs2">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franbs2&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franbs2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
+</center>
 
           
   
