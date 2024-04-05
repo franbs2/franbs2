@@ -5,7 +5,7 @@ Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. 
 
 ## Seja bem-vindo à minha jornada de descobertas e aprendizado!✨
 
-- 📚 Estou estudando Flutter e Java para o desenvolvimento Mobile e Back-End.
+- 📚 Estou estudando Flutter e Java para o desenvolvimento Mobile.
 - 📸 Adoro fotografar paisagens, tocar violão e ukulele.
 - 🎮 Gosto muito de jogos, mas isso não significa que eu seja boa hahaha.
 - 🐾 Tenho pets e adoro animais e plantinhas.
