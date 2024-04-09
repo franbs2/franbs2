@@ -1,7 +1,4 @@
-<a href="https://ibb.co/vPhhv16"><img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/Njrrnxd/IMG-20231018-WA0051.jpg" alt="IMG-20231018-WA0051" border="0" /></a>
-</br>
-</br>
-
+<a href="https://ibb.co/vPhhv16"><img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/Njrrnxd/IMG-20231018-WA0051.jpg" alt="IMG-20231018-WA0051" border="5px" /></a>
 <div dsplay="inline-block">
  
  <h1 aling="left">Hello World! 🍄</h1>
@@ -10,7 +7,7 @@
     
 
 </div>
-
+<br>
 
 ## Seja bem-vindo à minha jornada de descobertas e aprendizado!✨
 
