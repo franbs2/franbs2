@@ -4,10 +4,7 @@
  <h1 aling="left">Hello World! 🍄</h1>
  <h2 aling="left">Meu nome é Franciéllen e meu nickname é "Franbs"!</h2>
  <p aling="left">Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. Desde que descobri essa paixão, tenho me dedicado a expandir meus conhecimentos e explorar novas áreas dentro desse campo fascinante. Quanto mais aprendo, mais curiosa eu fico!</p>
-    
-
 </div>
-<br>
 
 ## Seja bem-vindo à minha jornada de descobertas e aprendizado!✨
 
