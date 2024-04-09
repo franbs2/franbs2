@@ -1,5 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" scr="https://ibb.co/vPhhv16">
-
+<a href="https://ibb.co/vPhhv16"><img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/Njrrnxd/IMG-20231018-WA0051.jpg" alt="IMG-20231018-WA0051" border="0" /></a>
 </br>
 </br>
 
