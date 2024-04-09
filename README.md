@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" scr="assents/franbs2.jpg">
+<img align="right" width="250px" style="margin-top:-20px" scr="../franbs2.jpg">
 
 </br>
 </br>
