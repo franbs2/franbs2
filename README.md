@@ -12,7 +12,7 @@
 - 📚 Estou estudando Flutter e Java para o desenvolvimento Mobile.
 - 📸 Adoro fotografar paisagens, tocar violão e ukulele.
 - 🎮 Gosto muito de jogos, mas isso não significa que eu seja boa hahaha.
-- 🐾 Tenho pets e adoro animais e plantinhas.
+- 🐾 Tenho pets, adoro animais e plantinhas.
 - ❔ Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você!
 
 ## Tecnologias e Ferramentas
