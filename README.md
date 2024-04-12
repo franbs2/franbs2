@@ -25,9 +25,6 @@
 </div> 
 
 
-![prifle-3d-contrib](https://github.com/franbs2/franbs2/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-
 ## Contatos:
 
 <a href="https://instagram.com/franbs.apk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
