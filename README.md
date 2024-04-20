@@ -6,10 +6,10 @@
 ### Seja bem-vindo à minha jornada de descobertas e aprendizado!✨
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Estou estudando Flutter e Java para o desenvolvimento Mobile. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Adoro fotografar paisagens, tocar violão e ukulele. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Gosto muito de jogos, mas isso não significa que eu seja boa hahaha. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" /> Tenho pets, adoro animais e plantinhas. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você! <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />  Adoro fotografar paisagens, tocar violão e ukulele. <br />  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />  Gosto muito de jogos, mas isso não significa que eu seja boa hahaha. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />  Tenho pets, adoro animais e plantinhas. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />  Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você! <br />
 
 <p align="center">
  <picture>
