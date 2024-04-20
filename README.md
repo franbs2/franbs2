@@ -1,7 +1,7 @@
 <a href="https://ibb.co/vPhhv16"><img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/Njrrnxd/IMG-20231018-WA0051.jpg" alt="IMG-20231018-WA0051" /></a>
 <div dsplay="inline-block">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=30&duration=8000&pause=1000&color=FFCBC6&background=FFCBC600&random=false&width=440&lines=Hello+World+%F0%9F%8D%84)](https://git.io/typing-svg) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=30&duration=8000&pause=1000&color=FFCBC6&background=FFCBC600&random=false&width=230&lines=Hello+World+%F0%9F%8D%84)
 <h3 aling="left">Meu nome é Franciéllen e meu nickname é "Franbs"!</h3>
  <p aling="left">Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. Desde que descobri essa paixão, tenho me dedicado a expandir meus conhecimentos e explorar novas áreas dentro desse campo fascinante. Quanto mais aprendo, mais curiosa eu fico!</p>
 <br>
