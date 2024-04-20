@@ -15,6 +15,15 @@
 - 🐾 Tenho pets, adoro animais e plantinhas.
 - ❔ Se quiser saber de algo mais, pode entrar em contato comigo pelas minhas redes, será um prazer conversar com você!
 
+<p align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franbs2/franbs2/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franbs2/franbs2/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/franbs2/franbs2/output/github-contribution-grid-snake.svg">
+ </picture>
+ <br>
+</p>
+
 ### Tecnologias e Ferramentas
 <p align="center">
      <img height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -25,7 +34,6 @@
      <img height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
      <img height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p> 
-
 
 ### Contatos:
 
