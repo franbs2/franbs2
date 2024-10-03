@@ -21,8 +21,6 @@
  <br>
 </p>
 
-<img width=100% src="https://lh3.googleusercontent.com/pw/AP1GczPDi3zkyzjwV7duy6erpMG3l5E0YQ8j9Ku8ldIgHOA4-DHfvHeYY9NdrWKzKJK2u48mS05FOJIVTqWJW28bVup18J-p0sE0FXD2HbX2ToK3soiTX2kd0yMNvNwbD1wGGWd0SWP8IChhCBHYNnqCZh95=w802-h30-s-no-gm?authuser=0"/>
-
 ### Tecnologias e Ferramentas
 <p align="center">
      <img height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
