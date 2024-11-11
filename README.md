@@ -1,8 +1,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=30&duration=8000&pause=1000&color=e9d8d4&background=FFCBC600&random=false&width=230&lines=Hello+World+%F0%9F%8D%84)
 <div dsplay="inline-block">
-<h3 aling="left">Meu nome é Franciéllen e meu nome é "Fran"!</h3>
- <p aling="left">Sou paraense, tenho 18 anos e sou uma entusiasta da programação e tecnologia. Desde que descobri essa paixão, tenho me dedicado a expandir meus conhecimentos e explorar novas áreas dentro desse campo fascinante. Quanto mais aprendo, mais curiosa eu fico!</p>
+<h3 aling="left">Meu nome é Franciéllen e meu apelido é "Fran"!</h3>
+ <p aling="left">Sou paraense e entusiasta da programação e tecnologia. Desde que descobri essa paixão, tenho me dedicado a expandir meus conhecimentos e explorar novas áreas dentro desse campo fascinante. Quanto mais aprendo, mais curiosa eu fico!</p>
 </div>
 
 ### Seja bem-vindo à minha jornada de descobertas e aprendizado!✨
